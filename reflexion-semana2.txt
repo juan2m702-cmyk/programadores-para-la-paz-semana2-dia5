@@ -1,0 +1,10 @@
+###### Reflexión:
+
+
+
+La terminal es importante para un desarrollador porque ayuda a trabajar más rápido y de forma organizada. Con ella se pueden crear y moverse entre carpetas, archivos y abrir proyectos usando comandos sencillos. También sirve para instalar programas y herramientas necesarias para programar. Los desarrolladores usan la terminal  porque ahorra tiempo y facilita algunas tareas. Aunque al principio parece difícil, poco a poco se vuelve más fácil de entender. Aprender a usarla también ayuda a conocer mejor cómo funciona el computador. Además, permite tener más orden dentro de los proyectos y resolver problemas más rápido. Por eso, saber usar la terminal es una habilidad muy útil e importante en la programación.
+
+
+
+.
+

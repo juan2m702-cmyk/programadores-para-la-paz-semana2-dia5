@@ -1,0 +1,12 @@
+Comandos utilizados en la actividad.
+
+mkrdir semana2
+cd semana2
+ni preguntas-semana2.txt
+ni comandos-terminal.txt
+ni reflexion-semana2.txt
+pwd
+ls
+Notepad comandos-terminal-txt
+Notepad preguntas-semana2.txt
+Notepad reflexion-semana2.txt
